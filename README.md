@@ -11,7 +11,7 @@
 >  - СMake
 >  - git
 
-1. Клонируем репозиторий `git@github.com:andreylitvintsev/NeurusTestTask1.git`
+1. Клонируем репозиторий `git clone git@github.com:andreylitvintsev/NeurusTestTask1.git`
 2. Переходим в директорию с репозиторием `cd ./NeurusTestTask1`
 3. Создаем директорию где будет происходить сборка и переходим в нее`mkdir build && cd ./build`
 4. Собираем проект `cmake ../ && cmake --build .`
